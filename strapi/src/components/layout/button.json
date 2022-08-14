@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_layout_buttons",
+  "info": {
+    "displayName": "Button",
+    "icon": "angle-double-right"
+  },
+  "options": {},
+  "attributes": {
+    "Label": {
+      "type": "string"
+    },
+    "Link": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
